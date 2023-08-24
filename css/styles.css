@@ -78,6 +78,9 @@ button {
         width: 496px;
 }
 
+.page-address {
+    font-style: normal
+}
 .main-button {
     display: inline-flex;
         padding: 16px 32px;
