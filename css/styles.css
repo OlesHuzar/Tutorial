@@ -12,6 +12,8 @@
 
 body {
 font-family: 'Roboto', sans-serif;
+color: #434455;
+background-color: #FFFFFF;
 }
 
 button {
@@ -25,7 +27,7 @@ button {
         line-height: 1.16;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #4D5AE5;
+        color: #2e2f42;
         width: 44px;
 }
 
@@ -33,11 +35,11 @@ button {
         font-family: 'Raleway', sans-serif;
         font-size: 18px;
         font-weight: 700;
-        line-height: 1.16;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         width: 71px;
-        color: var(--primary-text-color);
+        color: #4d5ae5;
 }
 
 .menu-link {    
@@ -58,7 +60,7 @@ button {
 
 .menu-link:hover,
 .menu-link:focus {
-    color: #404BBF;
+    color: #404bbf;
 }
 
 .main-section {
