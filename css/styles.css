@@ -67,6 +67,11 @@ button {
     color: #404bbf;
 }
 
+.contacts-list-link:hover,
+.contacts-list-link:focus {
+    color: #404bbf;
+}
+
 .main-section {
     background:#2E2F42;
     width: 1440px;
