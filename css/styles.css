@@ -162,6 +162,7 @@ button {
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: var(--primary-text-color);
+        background-color: #FFFFFF;
 }
 
 .company-team-pictures-text {
@@ -171,6 +172,7 @@ button {
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
+        background-color: #FFFFFF;
 }
 
 .company-portfolio-pictures-name {
