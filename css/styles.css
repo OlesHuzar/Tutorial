@@ -131,6 +131,9 @@ button {
         width: 264px;
 }
 
+.team-section {
+    background-color: #F4F4FD;
+}
 
 .company-title {
         text-align: center;
@@ -149,7 +152,7 @@ button {
         justify-content: center;
         align-items: center;
         gap: 32px;
-        
+        background-color: #FFFFFF;
 }
 
 .company-team-pictures-name {
