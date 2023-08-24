@@ -58,6 +58,10 @@ button {
         letter-spacing: 0.02em;
 }
 
+.page-address {
+    font-style: normal;
+}
+
 .menu-link:hover,
 .menu-link:focus {
     color: #404bbf;
