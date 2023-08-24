@@ -12,6 +12,8 @@
 
 body {
 font-family: 'Roboto', sans-serif;
+color: #434455; 
+background-color: #FFFFFF;
 }
 
 button {
@@ -33,7 +35,7 @@ button {
         font-family: 'Raleway', sans-serif;
         font-size: 18px;
         font-weight: 700;
-        line-height: 1.17;
+        line-height: 1.16;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         width: 71px;
@@ -78,9 +80,6 @@ button {
         width: 496px;
 }
 
-.page-address {
-    font-style: normal
-}
 .main-button {
     display: inline-flex;
         padding: 16px 32px;
